@@ -25,7 +25,7 @@
   left: 319px;
 }
 
-/* Select the image based on it being a sibling that follows imediately after the element with if of ball (using adjacent sibling selector) */
+/* Select the image based on it being a sibling that follows imediately after the element with an id of ball (using adjacent sibling selector) */
 
 /*__write_selector_here__*/ {
   position: absolute;
@@ -34,7 +34,7 @@
   left: 455px;
 }
 
-/* Select  the image that has an attribute value mathcing "Kitty 5" (using attribute selector) */
+/* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
 /*__write_selector_here__*/ {
   position: absolute;
