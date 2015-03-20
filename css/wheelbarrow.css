@@ -1,0 +1,40 @@
+html {
+  background: url(../images/beautiful-day.jpg) no-repeat top center;
+}
+
+img {
+  position: relative;
+  z-index: 11;
+  cursor: pointer;
+}
+
+.wrapper {
+  position: relative;
+  width: 960px;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+#wheelbarrow, #wheelbarrow-foreground {
+  margin-left: 80px;
+  width: 688px;
+  height: 514px;
+}
+
+#wheelbarrow { 
+  position: relative;
+  background: url(../images/wheelbarrow.png) no-repeat;
+  z-index: 0;
+  top: 220px;
+}
+#wheelbarrow-foreground {
+  pointer-events: none;
+  position: absolute;
+  background: url(../images/wheelbarrow-foreground.png) no-repeat;
+  z-index: 10;
+  top: 220px;
+}
+
+#basket, #ball {
+  display: inline;
+}
