@@ -1,6 +1,6 @@
 ---
 language: html, css
-tags: css, kittens, selectors, beginner
+tags: css, kittens, selectors, beginner, kids
 type: lab
 resources: 0
 ---
