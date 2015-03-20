@@ -1,3 +1,10 @@
+---
+language: html, css
+tags: css, kittens, selectors, beginner
+type: lab
+resources: 0
+---
+
 ## CSS Kitten Wheelbarrow
 
 Help collect all the kittens into the wheelbarrow using CSS selectors.
