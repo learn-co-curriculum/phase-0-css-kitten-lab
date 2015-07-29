@@ -1,9 +1,4 @@
----
-language: html, css
-tags: css, kittens, selectors, beginner, kids
-type: lab
-resources: 0
----
+
 
 ## CSS Kitten Wheelbarrow
 
