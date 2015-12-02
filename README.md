@@ -12,3 +12,5 @@ Help collect all the kittens into the wheelbarrow using CSS selectors.
 4. open index.html in the browser.
 5. open this folder in your code editor.
 6. Use the comments in **css/place-kitty.css** to write the correct selectors to move each kitty into the wheelbarrow.
+
+<a href='https://learn.co/lessons/css-kitten-wheelbarrow' data-visibility='hidden'>View this lesson on Learn.co</a>
