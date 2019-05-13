@@ -1,25 +1,36 @@
 # CSS Kitten Wheelbarrow
 
-## Problem Statement 
-Oh no! All of our kittens have escaped from the wheelbarrow. Help collect all the kittens into the wheelbarrow using CSS selectors and absolute positioning. 
+## Learning Goals
 
-## Objectives
-1. Practice absolute positioning skills
+- Position elements absolutely
 
-## Practice Absolute Positioning Skills
+## Introduction
 
-### Steps 
-### Tasks for LearnIDE Environment Users 
-1. Click the "OPEN IDE" button
+Oh no! All of our kittens have escaped from the wheelbarrow and we need to get
+them back in. Help collect all the kittens and put them into the wheelbarrow
+using CSS selectors and absolute positioning. 
 
-### Tasks for Local Environment Users 
-1. Fork this repository.
-2. Clone your fork locally.
-3. `cd` into the local repo you just cloned.
+## Position Elements Absolutely
 
-### Process
+There are a few different ways we can use CSS to position elements in our web
+pages. _Absolute_ positioning means placing the element in its containing
+element in a certain location that will stay the same no matter where other
+elements are placed.
 
-1. Open index.html in the browser. (For students using the Learn IDE, [use these instructions](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide) on how to view HTML pages in the browser.)
-2. Use the comments in **css/place-kitty.css** to write the correct selectors to move each kitty into the wheelbarrow.
+To get started with this lab, open index.html in the browser. (For students
+using the Learn IDE, [use these
+instructions](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide)
+on how to view HTML pages in the browser.)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/css-kitten-wheelbarrow' title='CSS Kitten Wheelbarrow'>CSS Kitten Wheelbarrow</a> on Learn.co and start learning to code for free.</p>
+Use the comments in **css/place-kitty.css** to write the correct selectors to
+move each kitty into the wheelbarrow.
+
+## Conclusion
+
+Sometimes it takes a little bit of time to get used to how absolute positioning
+works, so don't worry if you have to practice. It will help you create more
+complex CSS layouts in the future.
+
+## Resources
+
+- [Mozilla Developer Network: Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
