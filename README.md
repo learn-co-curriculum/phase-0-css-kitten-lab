@@ -10,6 +10,12 @@ Oh no! All of our kittens have escaped from the wheelbarrow and we need to get
 them back in. Help collect all the kittens and put them into the wheelbarrow
 using CSS selectors and absolute positioning. 
 
+## Getting Started
+
+Fork and clone this lesson into your local environment. Navigate into its directory
+in the terminal, then run `code .` to open the files in Visual Studio Code. Finally,
+run `bundle` to install the lab's dependencies.
+
 ## Position Elements Absolutely
 
 There are a few different ways we can use CSS to position elements in our web
@@ -17,12 +23,8 @@ pages. _Absolute_ positioning means placing the element in its containing
 element in a certain location that will stay the same no matter where other
 elements are placed.
 
-To get started with this lab, open index.html in the browser. (For students
-using the Learn IDE, [use these
-instructions](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide)
-on how to view HTML pages in the browser.)
-
-Use the comments in **css/place-kitty.css** to write the correct selectors to
+To get started with this lab, open index.html in the browser. Use the comments
+in **css/place-kitty.css** to write the correct selectors to
 move each kitty into the wheelbarrow.
 
 ## Conclusion
