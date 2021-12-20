@@ -1,4 +1,4 @@
-# CSS Kitten Wheelbarrow
+# BONUS: CSS Kitten Wheelbarrow
 
 ## Learning Goals
 
