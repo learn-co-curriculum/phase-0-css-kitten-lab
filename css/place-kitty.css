@@ -30,7 +30,7 @@ write-your-selector-here {
   left: 455px;
 }
 
-/* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
+/* Select the image that has an alt attribute value matching "Kitty 5" (using attribute selector) */
 write-your-selector-here {
   position: absolute;
   z-index: 3;
