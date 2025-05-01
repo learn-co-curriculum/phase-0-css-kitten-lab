@@ -2,14 +2,14 @@
   position: absolute;
   z-index: 1;
   top: 276px;
-  left: 129px;
+  left: 130px;
 }
 
 #kitty-2 {
   position: absolute;
   z-index: 2;
-  top: 212px;
-  left: 369px;
+  top: 225px;
+  left: 225px;
 }
 
 #basket img {
@@ -22,13 +22,13 @@
 #ball + img {
   position: absolute;
   z-index: 4;
-  top: 260px;
+  top: 250px;
   left: 455px;
 }
 
 img[alt="Kitty 5"] {
   position: absolute;
   z-index: 3;
-  top: 217px;
-  left: 223px;
+  top: 210px;
+  left: 290px;
 }
