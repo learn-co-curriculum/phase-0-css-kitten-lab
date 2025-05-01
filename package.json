@@ -4,7 +4,7 @@
   "description": "CSS Kitten Wheelbarrow",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -R mocha-multi --timeout 5000 --reporter-options spec=-,json=.results.json"
+    "test": "mocha -R mocha-multi --timeout 5000 --reporter-options spec=-,json=.results.json --bail"
   },
   "repository": {
     "type": "git",
